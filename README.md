@@ -1,7 +1,8 @@
 # jwtToken-react-express
-Front- and backend for showing how jwt auth work. 
+Frontend & Backend for showing how JSON Web Tokens Authentication Works
 
-## Usage
+## Context
+I followed freeCodeCamp's tutorial on JSON Web Tokens, and am learning jwt.
 
 ### Backend
 First ... create a .env file to store your secrets and port. Something like this: 
